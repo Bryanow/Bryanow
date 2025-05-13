@@ -6,7 +6,7 @@ I'm a passionate web developer focused on building modern applications. Always e
 
 ### 🔍 About Me
 
-- 💼 Begginer Developer  
+- 💼 Begginer Full-stack Developer  
 - 🚀 Open Source enthusiast  
 - 🎯 Focused on performance, clean code & best practices  
 - 📚 Lifelong learner  
