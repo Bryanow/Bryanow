@@ -1,12 +1,12 @@
 ## 👋 Hey there! I'm Bryan 🧑‍💻
 
-I'm a passionate web developer focused on building modern applications using React, TypeScript, Node.js, and databases like PostgreSQL and Cassandra. Always exploring, always learning!
+I'm a passionate web developer focused on building modern applications. Always exploring, always learning!
 
 ---
 
 ### 🔍 About Me
 
-- 💼 Full Stack Web Developer  
+- 💼 Begginer Developer  
 - 🚀 Open Source enthusiast  
 - 🎯 Focused on performance, clean code & best practices  
 - 📚 Lifelong learner  
