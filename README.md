@@ -1,27 +1,60 @@
-## Hi there, my name is Bryan 🧑‍💻
-<div>
-   <a href="https://github.com/Bryanow">
-   <img height="180em" src="https://github-readme-stats-bryanows-projects.vercel.app/api?username=Bryanow&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-bryanows-projects.vercel.app/api/top-langs/?username=Bryanow&layout=compact&langs_count=6&theme=tokyonight"/>
+## 👋 Hey there! I'm Bryan 🧑‍💻
+
+I'm a passionate web developer focused on building modern applications using React, TypeScript, Node.js, and databases like PostgreSQL and Cassandra. Always exploring, always learning!
+
+---
+
+### 🔍 About Me
+
+- 💼 Full Stack Web Developer  
+- 🚀 Open Source enthusiast  
+- 🎯 Focused on performance, clean code & best practices  
+- 📚 Lifelong learner  
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-bryanows-projects.vercel.app/api?username=Bryanow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-bryanows-projects.vercel.app/api/top-langs/?username=Bryanow&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Cassandra" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+
+---
+
+### 🛠️ Tech Stack
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" alt="Cassandra"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
 </div>
-<br>
- 
-### Para entrar em contato use as redes abaixo!
- 
-<div> 
-  <a href="https://www.instagram.com/bryanricardoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:bryan.ricardo7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bryan-ricardo-2476551a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+---
+
+### 📬 Let's Connect!
+
+<div style="display: flex; gap: 10px">
+  <a href="mailto:bryan.ricardo7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bryan-ricardo-2476551a1/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/bryanricardoo/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5519992329248&text=Hey%2C%20I%20found%20you%20on%20GitHub!" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </div>
+
+---
+
+✨ Thanks for stopping by — let's build something awesome together!
